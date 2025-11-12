@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE meteo SYSTEM "file:/D:/enset/xml%20et%20web-services/meteo.dtd">
+<meteo>
+    <mesure date="2024-11-11">
+        <ville nom="Casablanca" temperature="22"/>
+        <ville nom="Marrakech" temperature="25"/>
+        <ville nom="Mohammedia" temperature="26"/>
+        <ville nom="Tanger" temperature="27"/>
+        <ville nom="El jadida" temperature="28"/>
+        <ville nom="Laayoune" temperature="23"/>
+        <ville nom="DAKHLA" temperature="21"/>
+    </mesure>
+    <mesure date="2024-11-12">
+        <ville nom="Casablanca" temperature="20"/>
+        <ville nom="Marrakech" temperature="20"/>
+        <ville nom="Mohammedia" temperature="30"/>
+        <ville nom="Tanger" temperature="21"/>
+        <ville nom="El jadida" temperature="20"/>
+        <ville nom="Laayoune" temperature="28"/>
+        <ville nom="DAKHLA" temperature="31"/>
+    </mesure>
+</meteo>
