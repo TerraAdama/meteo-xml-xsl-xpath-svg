@@ -1,1 +1,4 @@
-<h1>Meteo</h1>
+<h1>Météo</h1>
+<img src="captures/cap.png">
+<hr/>
+<img src="captures/cap1.png">
